@@ -1,4 +1,4 @@
-1. Arithmetic Operators: These operators are used to perform normal arithmetics/mathematical operations. There are 7 arithmetic operators:
+1. Arithmetic Operators:
 
 i Addition (+): Binary operation used to add two operands.
 ii Subtraction (-): Binary operation used to subtract two operands.
@@ -8,7 +8,7 @@ v Modulus (%): Binary operation used to find remainder of two operands.
 vi Increment Operator (++): Unary operator used to increase the value of operand by one.
 vii Decrement Operator (- -): Unary operator used to decrease the value of a operand by one
 
-2. Relational Operators: Relational operators are those operators which define the relation between two operands. They give either true or false depending upon the relation. They are of 6 types:
+2. Relational Operators: 
 
 viii ‘==’ Operator: Double equal to operator compares the two operands. Its returns true is they are equal otherwise returns false.
 viii ‘!=’ Operator: Not Equal to operator return true if the two operands are not equal otherwise it returns false.
@@ -17,13 +17,13 @@ x ‘<=’ Operator: Less than or equal to operator returns true if first operan
 xi ‘>’ Operator: Greater than operator return true if the first operand is greater than the second operand otherwise return false.
 xii ‘>=’ Operator: Greater than or equal to operator returns true if first operand is greater than or equal to second operand otherwise returns false
 
-3. Logical Operators : They are also known as boolean operators. These are used to perform logical operations. They are of 3 types: 
+3. Logical Operators : 
 
 xiii Logical AND (&&): This is a binary operator, which returns true if both the operands are true otherwise returns false.
 xiv Logical OR (||): This is a binary operator, which returns true is either of the operand is true or both the operands are true and return false if none of then is false.
 xv Not Equal to (!): This is a unary operator which returns true if the operand is false and returns false if the operand is true.
 
-4. Bitwise Operators: A bitwise operator is an operator used to perform bitwise operations on bit patterns. They are of 6 types:
+4. Bitwise Operators: 
 
 xvi Bitwise And (&): Bitwise & operator performs binary AND operation bit by bit on the operands.
 xvii Bitwise OR (|): Bitwise | operator performs binary OR operation bit by bit on the operands.
@@ -32,7 +32,7 @@ xix Bitwise complement (~): Bitwise ~ operator performs binary NOT operation bit
 xx Left Shift (<<): This operator shifts the bits of the left operand to left by number of times specified by right operand.
 xxi Right Shift (>>): This operator shifts the bits of the left operand to right by number of times specified by right operand.
 
-5. File Test Operator: These operators are used to test a particular property of a file.
+5. File Test Operator: 
 
 xxii -b operator: This operator check whether a file is a block special file or not. It returns true if the file is a block special file otherwise false.
 xxiii-c operator: This operator checks whether a file is a character special file or not. It returns true if it is a character special file otherwise false.
